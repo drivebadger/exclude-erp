@@ -7,7 +7,7 @@ by eliminating files and directories, that are not valuable in any way to the at
 
 ### Installing
 
-Clone this repository as `/opt/drives/config/exclude-erp` directory on your Drive Badger persistent partition.
+Clone this repository as `/opt/drivebadger/config/exclude-erp` directory on your Drive Badger persistent partition.
 
 ### More information
 
