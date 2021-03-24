@@ -1,13 +1,22 @@
 Moria*.mpkg
 
+Program Files/InsERT/InsERT GT
+
+Program Files (x86)/InsERT/InsERT GT
 Program Files (x86)/Konwersja do SQL2012
+
 Business Objects/Common
 GOFIN/DRUKI Gofin
 iBard24/msi
+InsERT/InsERT GT/Aktualizacje
 
 instaluj/InsERTGT
 wspolne/dotnet2
+wspolne/dotNET4.0
 wspolne/sql2005_bc
 wspolne/sqlexpr
+wspolne/SQLExpr2008R2
+wspolne/SQLExpr2014
 wspolne/sterowniki
+wspolne/Sterowniki
 wspolne/WindowsInstaller
